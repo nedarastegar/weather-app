@@ -72,3 +72,12 @@ span.cloud{
     font-size: 40px;
     margin-left: 44px;
 }
+small{
+   
+    display: inline-block;
+    position: relative;
+    font-size: .875em;
+    font-weight: 400;
+    left: 25%;
+    text-align: center;
+}
